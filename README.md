@@ -56,7 +56,8 @@ For Google authentication, add the client_id of your Google application.
 
 ## Demo
 Frontend: https://github.com/Valenti-Franco/FVSocial
-https://fvsocial.vercel.app/
+
+DEMO: https://fvsocial.vercel.app/
 
 
 ![Captura de pantalla 2024-03-31 015711](https://github.com/Valenti-Franco/FVSocialAPI/assets/94399375/959b5522-2ca3-4803-bd37-f5885c5c6e0d)
